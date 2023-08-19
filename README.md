@@ -15,3 +15,6 @@ https://docs.spring.io/spring-data/data-redis/docs/1.4.0.RELEASE/reference/html/
 https://xz.aliyun.com/t/2339
 
 https://github.com/frohoff/ysoserial/issues/65
+
+
+https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html
