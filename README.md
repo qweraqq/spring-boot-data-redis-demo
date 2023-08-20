@@ -18,3 +18,7 @@ https://github.com/frohoff/ysoserial/issues/65
 
 
 https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html
+
+https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
+
+https://github.com/wh1t3p1g/ysomap
